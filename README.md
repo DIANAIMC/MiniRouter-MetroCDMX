@@ -1,1 +1,5 @@
 # MiniRouter-MetroCDMX
+
+ESPAÑOL: El siguiente proyecto se realizó en colaboración de @DIANAIMC , @marielsgtzz , @rroblesm y @diegoj029 . Se creó un programa en SWI-Prolog que es capaz de de brindar la mejor ruta de metro (se ingresaron las estaciones de la Ciudad de México, pero funciona para cualquier otro sistema de metro en el mundo del mismo tipo), considera el tiempo de viaje, número de transbordos y número de estaciones. La implementación se realizó con 3 algoritmos diferentes los cuales al final se compararon, fueron: por modelo (una grafo), por casos y por el algoritmo dijkistra.
+
+ENGLISH: The following project was made in collaboration with @DIANAIMC , @marielsgtzz , @rroblesm and @diegoj029 . This program was created in SWI-Prolog, is capable of providing the best metro route (the stations of Mexico City were entered, but it works for any other metro system in the world of the same type), considering the time of trip, number of transfers and number of stations. The implementation was carried out with 3 different algorithms which in the end were compared, they were: by model (a graph), by cases and by the dijkistra algorithm.
